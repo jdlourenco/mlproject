@@ -1,0 +1,1 @@
+web: pip install -U . && mlproject-computedist --coords 48.865070 2.380009 48.235070 2.393409
